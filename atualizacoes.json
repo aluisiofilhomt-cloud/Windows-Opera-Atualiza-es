@@ -1,22 +1,15 @@
 {
-  "versao": "1.6",
-  "titulo": "Atualização 1.6 do Windows Opera",
+  "versao": "1.7",
+  "titulo": "Atualização 1.7 do Windows Opera",
   "novidades": [
-    "Movie Maker: monte filmes com fotos, vídeos, música, títulos, legendas e créditos, com transições, pan e zoom e efeitos; salva em MP4",
-    "Windows Journal: caderno para escrever e desenhar com o mouse, marca-texto, várias páginas, exportar em PDF e converter escrita à mão em texto",
-    "Windows PowerShell (e PowerShell como Administrador), com Get-ChildItem, Get-Process, Get-Service, pipeline e muito mais",
-    "Menu Windows + X (menu de usuário avançado)",
-    "Pastas compactadas (.zip): abra como uma pasta normal, \"Extrair tudo\" e \"Enviar para → Pasta compactada\"",
-    "Opções de Energia, Mouse, Teclado e Resolução da Tela no estilo do Painel de Controle do Windows",
-    "Dispositivos e Impressoras (com Adicionar Impressora, fila de impressão e Bluetooth) e Conexões de Rede",
-    "Fax e Scanner do Windows para digitalizar documentos e fotos",
-    "Firewall do Windows Defender",
-    "Ferramenta de Remoção de Software Mal-Intencionado (mrt.exe)",
-    "Solução de Problemas: som, gravação, Internet, impressora e Windows Opera Update, com correção automática",
-    "Os últimos programas do sistema base que ainda apareciam foram substituídos",
-    "Inclui tudo das atualizações 1.2 a 1.5"
+    "Email no estilo do Windows Live Mail: suas contas (Gmail, Yahoo, UOL, BOL, Terra, iCloud e outras), pastas, mensagens com imagens, anexos, responder, encaminhar e sinalizar",
+    "Contatos: pessoas com foto, telefone, email e aniversário; importa e exporta .vcf e .csv; o Email completa os endereços sozinho",
+    "Calendário: visões de mês, semana e dia, eventos que se repetem, cores, feriados nacionais e lembretes que avisam na hora certa",
+    "Impressora \"Microsoft Print to PDF\": imprima de qualquer programa e salve o resultado como PDF",
+    "Editor de Política de Grupo Local (gpedit.msc), com políticas que funcionam de verdade: bloquear o Gerenciador de Tarefas, o Executar, o Painel de Controle, o Prompt de Comando, os jogos e mais",
+    "Inclui tudo das atualizações 1.2 a 1.6"
   ],
-  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.6.woupdate",
-  "sha256": "39848ef4e8a129a0cbfa4d5803407d1cbb245fd4eff6ac2973963b19422b3f84",
-  "tamanho": 1245879
+  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.7.woupdate",
+  "sha256": "357a7bfcc4091a7fb626f613203e14edacd79dba77b69a436181598856fd7250",
+  "tamanho": 1281894
 }
