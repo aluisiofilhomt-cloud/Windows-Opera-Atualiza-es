@@ -1,16 +1,22 @@
 {
-  "versao": "1.5",
-  "titulo": "Atualização 1.5 do Windows Opera",
+  "versao": "1.6",
+  "titulo": "Atualização 1.6 do Windows Opera",
   "novidades": [
-    "Windows Media Player: biblioteca de músicas e vídeos, listas de reprodução, “Tocando agora” com visualizações e tela inteira",
-    "WordPad com faixa de opções do Windows 7: fontes, cores, marca-texto, listas, alinhamento, imagens, data e hora; abre e salva .rtf, .docx, .odt e .txt",
-    "Painel de Entrada de Expressões Matemáticas (mip.exe): escreva contas à mão com o mouse, veja o que o Windows reconheceu, corrija e insira no seu programa",
-    "Mahjong no estilo Mahjong Titans: 10 tabuleiros, 3 aparências, dicas, desfazer, embaralhar e estatísticas",
-    "Agendador de Tarefas (taskschd.msc): crie tarefas que abrem programas ou mostram mensagens no horário que você quiser, com histórico",
-    "Tela azul de verdade: se uma parte essencial do sistema parar, aparece o “:( Seu PC encontrou um problema” e o computador reinicia (Ctrl + Scroll Lock duas vezes mostra a tela azul de propósito)",
-    "Inclui tudo das atualizações 1.2, 1.3 e 1.4"
+    "Movie Maker: monte filmes com fotos, vídeos, música, títulos, legendas e créditos, com transições, pan e zoom e efeitos; salva em MP4",
+    "Windows Journal: caderno para escrever e desenhar com o mouse, marca-texto, várias páginas, exportar em PDF e converter escrita à mão em texto",
+    "Windows PowerShell (e PowerShell como Administrador), com Get-ChildItem, Get-Process, Get-Service, pipeline e muito mais",
+    "Menu Windows + X (menu de usuário avançado)",
+    "Pastas compactadas (.zip): abra como uma pasta normal, \"Extrair tudo\" e \"Enviar para → Pasta compactada\"",
+    "Opções de Energia, Mouse, Teclado e Resolução da Tela no estilo do Painel de Controle do Windows",
+    "Dispositivos e Impressoras (com Adicionar Impressora, fila de impressão e Bluetooth) e Conexões de Rede",
+    "Fax e Scanner do Windows para digitalizar documentos e fotos",
+    "Firewall do Windows Defender",
+    "Ferramenta de Remoção de Software Mal-Intencionado (mrt.exe)",
+    "Solução de Problemas: som, gravação, Internet, impressora e Windows Opera Update, com correção automática",
+    "Os últimos programas do sistema base que ainda apareciam foram substituídos",
+    "Inclui tudo das atualizações 1.2 a 1.5"
   ],
-  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.5.woupdate",
-  "sha256": "605d6cd3a857137632be7556c2be9ab4813dfcecc9fc94791f5099ca16b7c080",
-  "tamanho": 1161400
+  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.6.woupdate",
+  "sha256": "39848ef4e8a129a0cbfa4d5803407d1cbb245fd4eff6ac2973963b19422b3f84",
+  "tamanho": 1245879
 }
