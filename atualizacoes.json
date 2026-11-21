@@ -1,0 +1,24 @@
+{
+  "versao": "1.3",
+  "titulo": "Atualização 1.3 do Windows Opera",
+  "novidades": [
+    "Configurações no estilo Windows 10 (Windows + I)",
+    "Temas completos: papel de parede, cor das janelas e sons de uma vez, com troca automática de fotos",
+    "Fixar programas na barra de tarefas e no Iniciar (clique direito)",
+    "Pesquisa no Iniciar agora encontra configurações, com “Melhor correspondência”",
+    "Acesso rápido no Explorador: pastas fixadas e arquivos recentes",
+    "Janela de progresso ao copiar e mover arquivos grandes, com velocidade e botão Cancelar",
+    "Visão de Tarefas (Windows + Tab)",
+    "Aero Peek: passe o mouse no canto da barra para ver a área de trabalho",
+    "Aero Shake: sacuda uma janela para minimizar as outras",
+    "Novo Gerenciador de Tarefas (Ctrl+Shift+Esc), Monitor de Recursos e Visualizador de Eventos",
+    "Limpeza de Disco e Otimizar Unidades (desfragmentador)",
+    "Notas Autoadesivas e Mixer de Volume",
+    "Mais de 80 novos programas na pasta System32",
+    "Menus da barra de tarefas sem itens técnicos",
+    "Inclui tudo da atualização 1.2: miniaturas na barra, painel de visualização, histórico da área de transferência, emojis, calendário, Gerenciador de Dispositivos, Gerenciamento de Disco, Gravador de Som e sons do sistema"
+  ],
+  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.3.woupdate",
+  "sha256": "654af5ebdc0af67c0f178546c82c5e679e804b8c23d3fc3a25b551780c728c25",
+  "tamanho": 491671
+}
