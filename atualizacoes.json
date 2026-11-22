@@ -1,15 +1,15 @@
 {
-  "versao": "1.7",
-  "titulo": "Atualização 1.7 do Windows Opera",
+  "versao": "1.8",
+  "titulo": "Atualização 1.8 do Windows Opera",
   "novidades": [
-    "Email no estilo do Windows Live Mail: suas contas (Gmail, Yahoo, UOL, BOL, Terra, iCloud e outras), pastas, mensagens com imagens, anexos, responder, encaminhar e sinalizar",
-    "Contatos: pessoas com foto, telefone, email e aniversário; importa e exporta .vcf e .csv; o Email completa os endereços sozinho",
-    "Calendário: visões de mês, semana e dia, eventos que se repetem, cores, feriados nacionais e lembretes que avisam na hora certa",
-    "Impressora \"Microsoft Print to PDF\": imprima de qualquer programa e salve o resultado como PDF",
-    "Editor de Política de Grupo Local (gpedit.msc), com políticas que funcionam de verdade: bloquear o Gerenciador de Tarefas, o Executar, o Painel de Controle, o Prompt de Comando, os jogos e mais",
-    "Inclui tudo das atualizações 1.2 a 1.6"
+    "Modo Escuro: deixe as janelas, menus e programas com fundo escuro; escolha Claro ou Escuro em Configurações > Cores, ou pelo bloco \"Modo escuro\" na Central de Ações",
+    "Protetores de tela clássicos: Tubos 3D, Texto 3D (com o texto que você quiser), Bolhas e Mystify; configure em Painel de Controle > Som, com visualização",
+    "Som: esquemas de sons — escolha um esquema, troque o som de cada evento por um arquivo seu, teste, use \"Sem som\" e salve o seu próprio esquema",
+    "Ferramenta de Diagnóstico do DirectX (dxdiag): abas Sistema, Tela e Som com os detalhes do computador, e opção de salvar tudo em um arquivo",
+    "Opções de Recuperação (\"Escolha uma opção\"): Reparo de Inicialização, Prompt de Comando, Restauração do Sistema e Configurações de Inicialização, em Configurações > Atualização e Segurança > Recuperação",
+    "Inclui tudo das atualizações 1.2 a 1.7"
   ],
-  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.7.woupdate",
-  "sha256": "357a7bfcc4091a7fb626f613203e14edacd79dba77b69a436181598856fd7250",
-  "tamanho": 1281894
+  "arquivo": "pacotes/WindowsOpera-Atualizacao-1.8.woupdate",
+  "sha256": "1295e1aae8ba4e1be18cb4a1b5227bd15b84e38214e992e7bea786a799f371a5",
+  "tamanho": 1293639
 }

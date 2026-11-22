@@ -5,6 +5,7 @@ repositório sozinho e avisa quando há uma versão nova.
 
 | Versão | O que mudou |
 |---|---|
+| 1.8 | Modo Escuro, protetores de tela clássicos (Tubos 3D, Texto 3D, Bolhas, Mystify), esquemas de sons, Ferramenta de Diagnóstico do DirectX (dxdiag) e Opções de Recuperação ("Escolha uma opção") |
 | 1.7 | Email, Contatos, Calendário com lembretes, impressora "Microsoft Print to PDF" e Editor de Política de Grupo |
 | 1.6 | Movie Maker, Windows Journal, PowerShell, menu Win+X, pastas .zip, Opções de Energia, Mouse, Teclado, Resolução da Tela, Dispositivos e Impressoras, Conexões de Rede, Fax e Scanner, Firewall, Ferramenta de Remoção de Software Mal-Intencionado e Solução de Problemas |
 | 1.5 | Windows Media Player, WordPad, Painel de Entrada de Expressões Matemáticas, Mahjong, Agendador de Tarefas e tela azul de verdade |
