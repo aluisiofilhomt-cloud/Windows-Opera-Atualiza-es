@@ -3,6 +3,15 @@
 Aqui ficam as atualizações do Windows Opera. O **Windows Opera Update** consulta este
 repositório sozinho e avisa quando há uma versão nova.
 
+## 💿 Instalar do zero (sistema completo)
+
+Quer o Windows Opera inteiro para instalar numa máquina virtual ou num PC?
+Baixe o **ISO completo da versão 1.8** (dividido em partes por causa do limite do GitHub):
+
+➡️ **[Partes do ISO + como juntar](../../tree/sistema-1.8/sistema)** — leia o `JUNTAR.md` dessa pasta.
+
+As atualizações do dia a dia continuam pequenas e automáticas (pelo Windows Opera Update); este ISO é só para instalar do zero.
+
 | Versão | O que mudou |
 |---|---|
 | 1.8 | Modo Escuro, protetores de tela clássicos (Tubos 3D, Texto 3D, Bolhas, Mystify), esquemas de sons, Ferramenta de Diagnóstico do DirectX (dxdiag) e Opções de Recuperação ("Escolha uma opção") |
